@@ -1,0 +1,20 @@
+{
+  "name": "Payment Server Template",
+  "description": "Payment Server template integrated with Stripe and Coinbase Commerce payment systems",
+  "repository": "https://github.com/open-template-hub/payment-server-template",
+  "logo": "https://github.com/open-template-hub/open-template-hub.github.io/blob/master/assets/logo/brand-logo.png?raw=true",
+  "keywords": [
+    "payment",
+    "server",
+    "template",
+    "nodejs",
+    "typescript",
+    "paypal",
+    "stripe",
+    "coinbase",
+    "stripe-checkout",
+    "stripe-payments",
+    "coinbase-commerce",
+    "open-template-hub"
+  ]
+}
